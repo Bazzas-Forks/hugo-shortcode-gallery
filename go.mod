@@ -1,3 +1,3 @@
-module github.com/mfg92/hugo-shortcode-gallery
+module github.com/bazzas-forks/hugo-shortcode-gallery
 
 go 1.18
